@@ -3,7 +3,12 @@ Typing Application that helps users improve typing skills.
 
                                           MWALIMU YA WORD - APPLICATION - 
 
-       Mwalimu Ya Word is the basic application to run any Windows Computer .This Typing Tutor Project will be done in C++ to measure user’s typing speed and accuracy to help  enhance practice & polish their typing skills.This application is very useful as typing speed and accuracy plays vital role while working in computer to save time. This is a simple console application written in C++ programming language, and compiled using DEV C++ compiler on Code:
+              Mwalimu Ya Word is the basic application to run any Windows Computer .
+       This Typing Tutor Project will be done in C++ to measure user’s typing speed and accuracy 
+       to help  enhance practice & polish their typing skills.This application is very useful as 
+       typing speed and accuracy plays vital role while working in computer to save time. 
+       This is a simple console application written in C++ programming language, and compiled 
+       using DEV C++ compiler on Code:
 
 
                                           "#......Rules Of The Game......#")
