@@ -1,0 +1,9 @@
+
+name=victtor   score=10    speed=1    level=2
+name=vic   score=20    speed=2    level=2
+name=vic   score=20    speed=10    level=2
+name=bim   score=30    speed=18    level=2
+name=1   score=0  level=1
+name=Ash   score=0  level=1
+name=bbm   score=0  level=2
+name=deddy   score=3  level=1
