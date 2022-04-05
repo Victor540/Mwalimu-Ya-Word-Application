@@ -11,7 +11,7 @@ Typing Application that helps users improve typing skills.
        using DEV C++ compiler on Code:
 
 
-                                          "#......Rules Of The Game......#")
+                               "#......Rules Of The Game......#")
 
 
                             =-> Enter your Full Name as player name
